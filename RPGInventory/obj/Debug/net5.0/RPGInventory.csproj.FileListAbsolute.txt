@@ -1,0 +1,12 @@
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\bin\Debug\net5.0\RPGInventory.deps.json
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\bin\Debug\net5.0\RPGInventory.dll
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\bin\Debug\net5.0\ref\RPGInventory.dll
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\bin\Debug\net5.0\RPGInventory.pdb
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.csproj.AssemblyReference.cache
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.AssemblyInfoInputs.cache
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.AssemblyInfo.cs
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.csproj.CoreCompileInputs.cache
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.dll
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\ref\RPGInventory.dll
+C:\Users\cbmar\source\repos\RPGInventory\RPGInventory\obj\Debug\net5.0\RPGInventory.pdb
